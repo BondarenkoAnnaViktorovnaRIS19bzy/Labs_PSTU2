@@ -1,0 +1,20 @@
+﻿  Lab11main.cpp
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(107,30): warning C4101:  k: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(107,20): warning C4101:  max: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(107,25): warning C4101:  min: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(128,30): warning C4101:  k: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(128,20): warning C4101:  max: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(128,25): warning C4101:  min: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(149,30): warning C4101:  k: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(149,20): warning C4101:  max: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(149,25): warning C4101:  min: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(149,14): warning C4101:  c: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(166,30): warning C4101:  k: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(166,20): warning C4101:  max: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(166,11): warning C4101:  b: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(166,25): warning C4101:  min: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(183,8): warning C4101:  a: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(183,30): warning C4101:  k: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(183,20): warning C4101:  max: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Project2\Lab11main.cpp(183,25): warning C4101:  min: неиспользованная локальная переменная
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab11++\ZADAHA1\PRIM11\Project2\Debug\Project2.exe

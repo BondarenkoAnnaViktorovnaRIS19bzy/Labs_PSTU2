@@ -1,0 +1,9 @@
+﻿  Lab11zadanie2main.cpp
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Project2\Lab11zadanie2main.cpp(41,20): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Project2\Lab11zadanie2main.cpp(42,20): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Project2\Lab11zadanie2main.cpp(43,20): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Project2\Lab11zadanie2main.cpp(191,11): warning C4101:  f: неиспользованная локальная переменная
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Project2\Lab11zadanie2main.cpp(213,14): warning C4101:  j: неиспользованная локальная переменная
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA2\11LABZADANIE2\Project2\Debug\Project2.exe

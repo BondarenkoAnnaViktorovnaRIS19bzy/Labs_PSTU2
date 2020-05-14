@@ -1,0 +1,37 @@
+﻿  Lab113zadaxamain.cpp
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(15,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(27,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(27,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(27,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(27,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(27,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(28,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(28,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(28,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(28,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(28,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(29,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(29,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(29,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(29,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(29,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(30,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(30,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(30,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(30,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(30,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(31,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(31,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(31,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(31,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(31,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(122,12): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(135,12): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(258,11): warning C4101:  e: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(280,14): warning C4101:  f: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(302,17): warning C4101:  j: неиспользованная локальная переменная
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Lab113zadaxamain.cpp(324,20): warning C4101:  l: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Project2\Vector.h(89): warning C4715:  Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab11++\ZADAXA3\11LABZADAXA3\Project2\Debug\Project2.exe
