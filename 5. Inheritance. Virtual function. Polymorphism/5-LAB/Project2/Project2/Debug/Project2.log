@@ -1,0 +1,8 @@
+﻿  Lab5main.cpp
+  Object.cpp
+  Pair.cpp
+  Rectangle.cpp
+  Vector.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab5++\5-LAB\Project2\Project2\Lab5main.cpp(12,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab5++\5-LAB\Project2\Debug\Project2.exe
