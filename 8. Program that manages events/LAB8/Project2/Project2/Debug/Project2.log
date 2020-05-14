@@ -1,0 +1,9 @@
+﻿  Dialog.cpp
+  Employee.cpp
+  Lab8main.cpp
+  Object.cpp
+  Person.cpp
+  Vector.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab8++\LAB8\Project2\Project2\Lab8main.cpp(14,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab8++\LAB8\Project2\Debug\Project2.exe
