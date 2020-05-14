@@ -1,0 +1,7 @@
+﻿  lab7main.cpp
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab7++\6P\Project2\Project2\lab7main.cpp(6,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\RIS-2semestr\OT4OTI\lab7++\6P\Project2\Project2\Vector.h(91): warning C4715:  Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\RIS-2semestr\OT4OTI\lab7++\6P\Project2\Debug\Project2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab7++\6P\Project2\Debug\Project2.exe
