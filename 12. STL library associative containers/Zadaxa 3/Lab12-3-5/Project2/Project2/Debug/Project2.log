@@ -1,0 +1,33 @@
+﻿  Lab12-3-5main.cpp
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(13,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(26,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(26,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(26,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(26,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(26,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(27,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(27,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(27,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(27,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(27,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(28,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(28,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(28,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(28,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(28,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(29,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(29,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(29,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(29,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(29,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(30,9): warning C4244:  =: преобразование "float" в "T", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(30,9): warning C4244:         with
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(30,9): warning C4244:         [
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(30,9): warning C4244:             T=int
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(30,9): warning C4244:         ]
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(71,12): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Lab12-3-5main.cpp(84,12): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Project2\Vector.h(90): warning C4715:  Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab12++\ZADAXA3\Lab12-3-5\Project2\Debug\Project2.exe
