@@ -1,0 +1,6 @@
+﻿  Lab3main.cpp
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab3++\33333\Project1\Project1\Lab3main.cpp(5,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка D:\RIS-2semestr\OT4OTI\lab3++\33333\Project1\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project1.vcxproj -> D:\RIS-2semestr\OT4OTI\lab3++\33333\Project1\Debug\Project1.exe
