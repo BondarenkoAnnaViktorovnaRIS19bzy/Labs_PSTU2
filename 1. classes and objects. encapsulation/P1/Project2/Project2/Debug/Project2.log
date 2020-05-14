@@ -1,0 +1,7 @@
+﻿  fraction.cpp
+  Lab1main.cpp
+D:\RIS-2semestr\OT4OTI\lab1++\1. classes and objects. encapsulation\P1\Project2\Project2\Lab1main.cpp(13,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\RIS-2semestr\OT4OTI\lab1++\1. classes and objects. encapsulation\P1\Project2\Project2\Lab1main.cpp(41,39): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab1++\1. classes and objects. encapsulation\P1\Project2\Project2\Lab1main.cpp(40,13): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab1++\1. classes and objects. encapsulation\P1\Project2\Debug\Project2.exe
