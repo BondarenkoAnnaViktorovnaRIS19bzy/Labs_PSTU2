@@ -1,0 +1,5 @@
+﻿  TLab8main.cpp
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB1++\T11\Project1\Project1\TLab8main.cpp(49,29): warning C4018:  >=: несоответствие типов со знаком и без знака
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB1++\T11\Project1\Project1\TLab8main.cpp(59,29): warning C4018:  >=: несоответствие типов со знаком и без знака
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB1++\T11\Project1\Project1\TLab8main.cpp(167,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB1++\T11\Project1\Debug\Project1.exe
