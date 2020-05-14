@@ -1,0 +1,7 @@
+﻿  13Lab1zadaxamain.cpp
+D:\RIS-2semestr\OT4OTI\lab13++\ZADAXA1\13\Project2\Project2\13Lab1zadaxamain.cpp(56,22): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\lab13++\ZADAXA1\13\Project2\Project2\13Lab1zadaxamain.cpp(57,22): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+  Time.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab13++\ZADAXA1\13\Project2\Project2\13Lab1zadaxamain.cpp(58,22): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab13++\ZADAXA1\13\Project2\Debug\Project2.exe
