@@ -1,0 +1,6 @@
+﻿  Book.cpp
+  Lab2main.cpp
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab2++\P11\Project1\Project1\Lab2main.cpp(47,2): warning C4551:  в вызове функции отсутствует список аргументов
+  LINK : не найден или не выполнена сборка D:\RIS-2semestr\OT4OTI\lab2++\P11\Project1\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project1.vcxproj -> D:\RIS-2semestr\OT4OTI\lab2++\P11\Project1\Debug\Project1.exe
