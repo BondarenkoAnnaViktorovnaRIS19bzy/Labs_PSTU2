@@ -1,0 +1,8 @@
+﻿  lab9main.cpp
+D:\RIS-2semestr\OT4OTI\lab9++\3R\P999\Project2\Project2\Error.h(39,42): warning C4129:  	: неизвестная escape-последовательность
+  Vector.cpp
+D:\RIS-2semestr\OT4OTI\lab9++\3R\P999\Project2\Project2\lab9main.cpp(22,7): warning C4101:  c: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\lab9++\3R\P999\Project2\Project2\Error.h(39,42): warning C4129:  	: неизвестная escape-последовательность
+  Создание кода...
+D:\RIS-2semestr\OT4OTI\lab9++\3R\P999\Project2\Project2\Vector.cpp(45,26): warning C4129:  	: неизвестная escape-последовательность
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\lab9++\3R\P999\Project2\Debug\Project2.exe
