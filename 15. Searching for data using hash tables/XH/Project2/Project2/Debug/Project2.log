@@ -1,0 +1,7 @@
+﻿  XHmain.cpp
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Project2\XHmain.cpp(25,8): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Project2\XHmain.cpp(56,27): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Project2\XHmain.cpp(64,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Project2\XHmain.cpp(113,7): warning C4101:  flag: неиспользованная локальная переменная
+D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Project2\XHmain.cpp(112,6): warning C4101:  key: неиспользованная локальная переменная
+  Project2.vcxproj -> D:\RIS-2semestr\OT4OTI\Teory algoritmov i struktyri dannix\LAB2++\XH\Project2\Debug\Project2.exe
